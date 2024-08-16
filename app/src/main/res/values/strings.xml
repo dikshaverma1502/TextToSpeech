@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="translate">Translated text</string>
+    <string name="lang">Select your language</string>
+    <string name="text">Enter your text</string>
+    <string name="syn">Synthesize the audio</string>
+    <string name="submit">Submit</string>
+    <string-array name="programming_languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>CPP</item>
+    </string-array>
+</resources>
